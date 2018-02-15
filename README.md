@@ -1,3 +1,7 @@
+# REMARK, ERROR # 
+Inside of DISTANCESPHERE, the actual data is the angle (in deg) of the great-circle. To get the distance in km, perform DISTANCESPHERE*/360*2*pi*6371
+
+
 # Cities Germany Data Set # 
 The repository CitiesGermanyDataSet contains the distance between the 79 largest cities in Germany.
 Distance is measured in the following ways
