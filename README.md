@@ -1,4 +1,4 @@
-# Cities Germany Data Set# 
+# Cities Germany Data Set # 
 The repository CitiesGermanyDataSet contains the distance between the 79 largest cities in Germany.
 Distance is measured in the following ways
 	1) As the great-circle distance between two cities given the radius of the earth as R=6371km
